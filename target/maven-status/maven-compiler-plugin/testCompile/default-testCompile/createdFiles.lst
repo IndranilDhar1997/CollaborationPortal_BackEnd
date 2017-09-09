@@ -1,0 +1,6 @@
+com\collaborate\testcase\ForumTestCase.class
+com\collaborate\testcase\JobDetailTestCase.class
+com\collaborate\testcase\ForumCommentTestCase.class
+com\collaborate\testcase\BlogCommentTestCase.class
+com\collaborate\testcase\BlogTestCase.class
+com\collaborate\testcase\UserDetailsTestCase.class
